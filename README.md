@@ -1,13 +1,5 @@
 # Paiza
 
-[![IMAGE ALT TEXT HERE](thumbnailImage.png)](https://youtu.be/0sLqy5UFSpA)
-
-* 制作期間: 2021年10月~　11月　30日間
-* 使用技術: Laravel,MySQL,BootStrap,Jquery,Html,CSS
-* 使用API: LineメッセージAPI(Liff)
-* プロダクト紹介映像：
-https://youtu.be/0sLqy5UFSpA
-
 ### 概要
 
 
