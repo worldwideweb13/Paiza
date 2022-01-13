@@ -2,7 +2,9 @@
     // 自分の得意な言語で
     // Let's チャレンジ！
     [$x,$y] = array_map('intval', explode(" ", trim(fgets(STDIN))));
-    $roboInfo["position"] = array("currentDirection"=>"F","x"=>$x,"y"=>$y);
+    $roboInfo["x"] = $x;
+    $roboInfo["y"] = $y;
+    $roboInfo["currentDirection"] = "F";
     [$F,$R,$B,$L] = array_map('intval', explode(" ", trim(fgets(STDIN))));
     $roboInfo["m"] =  array($F,$R,$B,$L);
     $positionArray = array("F","R","B","L");
@@ -15,71 +17,111 @@
         $recordArray [$i]= array("order" => $e_1,"direction" => $c_1);
     }
     
-    var_dump($positionArray);
+    // var_dump($recordArray);
+    // exit; OK!
+    roboMove($recordArray, $positionArray);
     
-    function roboMove($roboInfo, $recordArray){
-        
+    echo $roboInfo["x"]." ".$roboInfo["y"];
+
+    function roboMove($recordArray, $positionArray){
+
         foreach ($recordArray as $record) {
-            
+            // var_dump($GLOBALS["roboInfo"]["x"].",".$GLOBALS["roboInfo"]["y"]);
             if($record["order"]=="t"){
-                roboDirection($record["direction"],$roboInfo["position"]["currentDirection"]);
+                roboDirection($record["direction"],$positionArray);
+                // var_dump($GLOBALS["roboInfo"]);
+                // exit; OK!                  
             }elseif($record["order"]=="m"){
-                switch($record["direction"]){
-                    case "R":
-                        if($roboInfo["position"]["currentDirection"]=="R" | $roboInfo["position"]["currentDirection"]=="L"){
-                            
+                switch($GLOBALS["roboInfo"]["currentDirection"]){
+                    case "F":
+                            // var_dump($GLOBALS["roboInfo"]);
+                            // exit; OK! 
+                        if($record["direction"]=="F"){
+                            $GLOBALS["roboInfo"]["y"] += $GLOBALS["roboInfo"]["m"][0];
+                            // var_dump($GLOBALS["roboInfo"]);
+                            // exit; OK!                    
+                        }elseif($record["direction"]=="R"){
+                            $GLOBALS["roboInfo"]["x"] += $GLOBALS["roboInfo"]["m"][1];
+                        }elseif($record["direction"]=="B"){
+                            $GLOBALS["roboInfo"]["y"] -= $GLOBALS["roboInfo"]["m"][2];
+                        }elseif($record["direction"]=="L"){
+                            $GLOBALS["roboInfo"]["x"] -= $GLOBALS["roboInfo"]["m"][3];
                         }
-                    case "L":
-                        
+                        // var_dump($GLOBALS["roboInfo"]);
+                        // exit; OK!
+                        break;
+                    case "R":
+                        if($record["direction"]=="F"){
+                            // var_dump($GLOBALS["roboInfo"]);
+                            $GLOBALS["roboInfo"]["x"] += $GLOBALS["roboInfo"]["m"][0];
+                            // var_dump($GLOBALS["roboInfo"]);
+                            // exit; ok!
+                        }elseif($record["direction"]=="R"){
+                            $GLOBALS["roboInfo"]["y"] -= $GLOBALS["roboInfo"]["m"][1];
+                        }elseif($record["direction"]=="B"){
+                            $GLOBALS["roboInfo"]["x"] -= $GLOBALS["roboInfo"]["m"][2];
+                        }elseif($record["direction"]=="L"){
+                            $GLOBALS["roboInfo"]["y"] += $GLOBALS["roboInfo"]["m"][3];
+                        }
                         break;
                     case "B":
-                    case "F":
-                        
-                        break;                
+                        if($record["direction"]=="F"){
+                            $GLOBALS["roboInfo"]["y"] -= $GLOBALS["roboInfo"]["m"][0];
+                        }elseif($record["direction"]=="R"){
+                            $GLOBALS["roboInfo"]["x"] -= $GLOBALS["roboInfo"]["m"][1];
+                        }elseif($record["direction"]=="B"){
+                            $GLOBALS["roboInfo"]["y"] += $GLOBALS["roboInfo"]["m"][2];
+                        }elseif($record["direction"]=="L"){
+                            $GLOBALS["roboInfo"]["x"] += $GLOBALS["roboInfo"]["m"][3];
+                        }
+                        break;
+                    case "L":
+                        if($record["direction"]=="F"){
+                            $GLOBALS["roboInfo"]["x"] -= $GLOBALS["roboInfo"]["m"][0];
+                        }elseif($record["direction"]=="R"){
+                            $GLOBALS["roboInfo"]["y"] += $GLOBALS["roboInfo"]["m"][1];
+                        }elseif($record["direction"]=="B"){
+                            $GLOBALS["roboInfo"]["x"] += $GLOBALS["roboInfo"]["m"][2];
+                        }elseif($record["direction"]=="L"){
+                            $GLOBALS["roboInfo"]["y"] -= $GLOBALS["roboInfo"]["m"][3];
+                        }
+                        break;                        
                 }
             }
             
         }    
     }
     
-    function roboDirection($e_1,$currentDirection,$positionArray){
-        $i = array_search($currentDirection,$positionArray);
+    function roboDirection($e_1,$positionArray){
+        $i = array_search($GLOBALS["roboInfo"]["currentDirection"],$positionArray);
+        // var_dump($GLOBALS["roboInfo"]["currentDirection"]);
+        // var_dump($positionArray);
+        // var_dump($i);
+        // exit; OK!
         switch($e_1){
             case "R":
                 if($i == 3){
-                    $roboInfo["position"]["currentDirection"]  = $positionArray[0];
+                    $GLOBALS["roboInfo"]["currentDirection"]  = $positionArray[0];
                 }else{
-                    $roboInfo["position"]["currentDirection"]  = $positionArray[$i + 1];
+                    $GLOBALS["roboInfo"]["currentDirection"]  = $positionArray[$i + 1];
                 }
-                $roboInfo["m"][0] = $roboInfo["m"][1];
-                $roboInfo["m"][1] = $roboInfo["m"][2];
-                $roboInfo["m"][2] = $roboInfo["m"][3];
-                $roboInfo["m"][3] = $roboInfo["m"][0];
+         
                 break;
             case "L":
                 if($i == 0){
-                    $roboInfo["position"]["currentDirection"]  = $positionArray[3];
+                    $GLOBALS["roboInfo"]["currentDirection"]  = $positionArray[3];
                 }else{
-                    $roboInfo["position"]["currentDirection"]  = $positionArray[$i - 1];
+                    $GLOBALS["roboInfo"]["currentDirection"]  = $positionArray[$i - 1];
                 }                
-                $roboInfo["m"][0] = $roboInfo["m"][3];
-                $roboInfo["m"][1] = $roboInfo["m"][0];
-                $roboInfo["m"][2] = $roboInfo["m"][1];
-                $roboInfo["m"][3] = $roboInfo["m"][2];
                 break;                
             case "B":
-            case "F":
                 if($i == 2){
-                    $roboInfo["position"]["currentDirection"]  = $positionArray[0];
+                    $GLOBALS["roboInfo"]["currentDirection"]  = $positionArray[0];
                 }elseif($i == 3){
-                    $roboInfo["position"]["currentDirection"]  = $positionArray[2];
+                    $GLOBALS["roboInfo"]["currentDirection"]  = $positionArray[2];
                 }else{
-                    $roboInfo["position"]["currentDirection"]  = $positionArray[$i + 2];                    
+                    $GLOBALS["roboInfo"]["currentDirection"]  = $positionArray[$i + 2];                    
                 }
-                $roboInfo["m"][0] = $roboInfo["m"][2];
-                $roboInfo["m"][1] = $roboInfo["m"][3];
-                $roboInfo["m"][2] = $roboInfo["m"][0];
-                $roboInfo["m"][3] = $roboInfo["m"][1];
                 break;
         }
     }
