@@ -39,7 +39,6 @@
         }
     }
     
-    // exit;
     // (4) (3)を空文字区切りで表示、一つもない場合は"wait"と出力
     if (empty($ansLists)){
       echo 'wait';
