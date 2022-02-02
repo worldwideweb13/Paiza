@@ -8,7 +8,8 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
 ## Bランク
 ### PHP
 * [B101:【2021年Xmas問題】キャンディのプレゼント](B019.php)
-* [B019:グレースケール画像の縮小](https://paiza.jp/works/challenges/69/retry) : [回答結果](php/rankB/B101.php)
+* [B019:グレースケール画像の縮小](https://paiza.jp/works/challenges/69/retry) : [答案](php/rankB/B101.php)
+* [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry) : [答案](php/rankB/B304.php)
 * [B095:カラオケ大会](B095.php)
 * [B081:花壇のロープ](B081.php)
 * [B073:【キャンペーン問題】イルミネーションの調査](B073.php)
