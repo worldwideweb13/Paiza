@@ -7,14 +7,14 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
 
 ## Bランク
 ### PHP
-* [B101:【2021年Xmas問題】キャンディのプレゼント](B019.php)
-* [B019:グレースケール画像の縮小](https://paiza.jp/works/challenges/69/retry) : [答案](php/rankB/B101.php)
-* [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
+1. [B101:【2021年Xmas問題】キャンディのプレゼント](B019.php)
+1. [B019:グレースケール画像の縮小](https://paiza.jp/works/challenges/69/retry) : [答案](php/rankB/B101.php)
+1. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
   * [答案](php/rankB/B065.php)
-* [B095:カラオケ大会](B095.php)
-* [B081:花壇のロープ](B081.php)
-* [B073:【キャンペーン問題】イルミネーションの調査](B073.php)
-* [B099:台風の接近](B099.php)
+1. [B095:カラオケ大会](B095.php)
+1. [B081:花壇のロープ](B081.php)
+1. [B073:【キャンペーン問題】イルミネーションの調査](B073.php)
+1. [B099:台風の接近](B099.php)
 
 ### JS
 1. [B055:タクシー料金](B055.js)
