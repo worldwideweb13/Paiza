@@ -6,7 +6,8 @@
     * (4) (3)を行毎に表示
     */
     [$N,$K] = array_map('intval', explode(" ", trim(fgets(STDIN))));
-    $roupCount = ($N / $K) ** 2;
+    $rowCount = $N / $K;
+    $TotalRoupCount = ($N / $K) ** 2;
     
     $pixelArray = [];
     for($i=0; $i< $N; $i++){
@@ -34,36 +35,33 @@
     }
     
     $shrinkPixelArray = [];
-    var_dump($calArray);
-    $countColumn = 0;
+    // var_dump($calArray);
+    $columnIndex = 0;
     // ブロックの個数分ループ文を廻して、各ブロックの合計値を算出
-    for ($i = 0; $i < $roupCount * 2 ; $i+=2) {
-        // ブロック内の配列個数分for文を廻して、ブロック内の合計値を算出
-        $pixels = 0;
-        // 計算するブロックの列が変わる時は、ブロック配列のindexを変更
-        if(($i + 1) % ($N / $K) == 0){
-            $countColumn += $K;
+    for ($i_1 = 0; $i_1 < $N ; $i_1 += $K) {
+
+        for($i_2 = 0; $i_2 < $rowCount; $i_2++){
+            // echo " i_2は".$i_2.PHP_EOL;
+            // ブロック内の配列個数分for文を廻して、ブロック内の合計値を算出
+            $pixels = 0;            
+            for ($i_3 = 0; $i_3 < $K; $i_3++) {
+                $pixels += $calArray[$i_1 + $i_3][$i_2];
+                // echo "i_1は".$i_1." i_2は".$i_2." i_3は".$i_3.PHP_EOL;
+            }
+            // var_dump("計算結果は".$pixels." 答えは".intdiv($pixels,$K**2));
+            $pixels = intdiv($pixels,$K**2);
+            array_push($shrinkPixelArray,$pixels);
         }
-        
-        for ($i_c = 0; $i_c <= $K; $i_c++) {
-            echo "countColumnは$countColumn"." iは$i"." i_cは$i_c".PHP_EOL;
-            $pixels = $calArray[$countColumn + $i][$i_c] + $calArray[$countColumn + $i + 1][$i_c];
-            var_dump("計算する値は".$calArray[$countColumn + $i_c][$i]."と".$calArray[$countColumn + $i_c + 1][$i]);
-            var_dump("計算結果は".$pixels." 答えは".$pixels /= floor($K*$K));
-        }
-        $pixels /= floor($K*$K);
-        array_push($shrinkPixelArray,$pixels);
+
     }
-    exit;
-    
+    // var_dump($shrinkPixelArray);
+
     $count_c = ($N / $K);
     $output_r = 0;
-    $output_c =  $count_c;
     for($i = 0;$i <  $count_c ;$i++ ){
-        $echoArray = array_slice($shrinkPixelArray,$output_r,$output_c);
+        $echoArray = array_slice($shrinkPixelArray,$output_r,$count_c);
         echo implode(" ",$echoArray).PHP_EOL;
         $output_r += $count_c;
-        $output_c += $count_c;
     }
     
 ?>
