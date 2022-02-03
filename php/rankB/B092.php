@@ -1,9 +1,9 @@
 <?php
     /*　回答方針 
     * (1) 現在地とセーブポイントの座標(x,y)を取得して、それぞれ変数、配列化
-    * (2) セーブポイント座標配列を昇順【ksort()】にして、現在地座標との距離を算出
-    * (3) (2)の結果配列から最小値を取得【min()】,最小値を持つ座標一覧を取得【array_keys()】
-    * (4) (3)を画面に表示
+    * (2) セーブポイント座標配列から、現在地座標との距離を算出
+    * (3) (2)の結果配列から最小値を検索【min()】,最小値を持つ座標一覧を取得【array_keys()】
+    * (4) (3)の結果配列を昇順【ksort()】にして画面に表示
     */
     
     // (1) 現在地とセーブポイントの座標(x,y)を取得して、それぞれ変数、配列化
@@ -25,7 +25,7 @@
          }
     }
     
-    // (2) セーブポイント座標配列を昇順【ksort()】にして、現在地座標との距離を算出
+    // (2) セーブポイント座標配列から、現在地座標との距離を算出
     $distanceArr = calDistance($N,$pointsArr);
     
     function calDistance($N,$pointsArr){
@@ -37,7 +37,7 @@
         return $distanceArr;
     }
     
-    // (3) (2)の結果配列から最小値を取得【min()】,最小値を持つ座標一覧を取得【array_keys()】
+    // (3) (2)の結果配列から最小値を検索【min()】,最小値を持つ座標一覧を取得【array_keys()】
     $minDistanceArr = minDistance($distanceArr);
     
     function minDistance($distanceArr){
@@ -46,7 +46,7 @@
         foreach ($minKeys as $key) {
             array_push($minDistanceArr,$key);
         }
-        //  (4) (3)を画面に表示
+        //  (4) (3)の結果配列を昇順【ksort()】にして画面に表示
         asort($minDistanceArr);
         echo count($minDistanceArr).PHP_EOL;
         foreach ($minDistanceArr as $val) {
