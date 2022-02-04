@@ -11,7 +11,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
 1. [B019:グレースケール画像の縮小](https://paiza.jp/works/challenges/69/retry)
     1. [答案](php/rankB/B101.php)
 2. [B053:表の自動生成]()
-    3. [答案](php/rankB/B053.php)
+    1. [答案](php/rankB/B053.php)
 4. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
     1. [答案](php/rankB/B065.php)
 5. [B095:カラオケ大会](B095.php)
