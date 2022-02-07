@@ -9,7 +9,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
 ### PHP
 1. [B101:【2021年Xmas問題】キャンディのプレゼント]()
     1. [答案](php/rankB/B101.php)
-3. [B019:グレースケール画像の縮小](https://paiza.jp/works/challenges/69/retry)
+3. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
     1. [答案](php/rankB/B019.php)
 4. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
     1. [答案](php/rankB/B053.php)
