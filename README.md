@@ -15,12 +15,13 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B053.php)
 5. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
     1. [答案](php/rankB/B065.php)
-6. [B095:カラオケ大会](B095.php)
-7. [B081:花壇のロープ](B081.php)
-8. [B073:【キャンペーン問題】イルミネーションの調査](B073.php)
-9. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
+6. [B095:カラオケ大会]()
+    1. [答案](php/rankB/B095.php)
+8. [B081:花壇のロープ](B081.php)
+9. [B073:【キャンペーン問題】イルミネーションの調査](B073.php)
+10. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
     1. [答案](php/rankB/B092.php)
-10. [B099:台風の接近](B099.php)
+11. [B099:台風の接近](B099.php)
 
 ### JS
 1. [B055:タクシー料金](B055.js)
