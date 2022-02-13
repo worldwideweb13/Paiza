@@ -19,7 +19,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B095.php)
 8. [B081:花壇のロープ](https://paiza.jp/career/challenges/391/page/result)
     1. [答案](php/rankB/B081.php)
-10. [B073:【キャンペーン問題】イルミネーションの調査](B073.php)
+10. [B073:【キャンペーン問題】イルミネーションの調査](https://paiza.jp/career/challenges/350/page/result)
     1. [答案](php/rankB/B073.php) 
 12. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
     1. [答案](php/rankB/B092.php)
