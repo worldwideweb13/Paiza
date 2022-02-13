@@ -17,7 +17,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B065.php)
 6. [B095:カラオケ大会]()
     1. [答案](php/rankB/B095.php)
-8. [B081:花壇のロープ](B081.php)
+8. [B081:花壇のロープ](https://paiza.jp/career/challenges/391/page/result)
     1. [答案](php/rankB/B081.php)
 10. [B073:【キャンペーン問題】イルミネーションの調査](B073.php)
     1. [答案](php/rankB/B073.php) 
