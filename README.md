@@ -21,6 +21,8 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B081.php)
 10. [B073:【キャンペーン問題】イルミネーションの調査](https://paiza.jp/career/challenges/350/page/result)
     1. [答案](php/rankB/B073.php) 
+10. [B076:パン屋さん](https://paiza.jp/career/challenges/369/page/result)
+    1. [答案](php/rankB/B076.php)  
 11. [B079:相性チェック](https://paiza.jp/works/challenges/384/page/result)
     1. [答案](php/rankB/B079.php) 
 13. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
