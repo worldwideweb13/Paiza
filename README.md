@@ -17,6 +17,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B053.php)
 6. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
     1. [答案](php/rankB/B065.php)
+7. https://paiza.jp/works/challenges/425/page/result
 7. [B095:カラオケ大会]()
     1. [答案](php/rankB/B095.php)
 8. [B081:花壇のロープ](https://paiza.jp/career/challenges/391/page/result)
