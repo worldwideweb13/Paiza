@@ -46,7 +46,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](js/rankC/C034.js)    
 1. [C016:Leet文字列](https://paiza.jp/career/challenges/54/page/result)
     1. [答案](js/rankC/C016.js)
-1. [C013:嫌いな数字](C013.js)
+1. [C013:嫌いな数字](https://paiza.jp/career/challenges/46/page/result)
     1. [答案](js/rankC/C013.js)
 1. [C029:旅行の計画](C029.js)
     1. [答案](js/rankC/C029.js)
