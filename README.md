@@ -13,6 +13,8 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B017.php)
 4. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
     1. [答案](php/rankB/B019.php)
+4. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
+    1. [答案](php/rankB/B020.php)
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
     1. [答案](php/rankB/B053.php)
 6. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
@@ -33,6 +35,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B092.php)
 15. [B099:台風の接近](B099.php)
     1. [答案](php/rankB/B099.php)
+
 ### JS
 1. [B055:タクシー料金](B055.js)
     1. [答案](js/rankB/B055.js)
