@@ -15,6 +15,8 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B019.php)
 4. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
     1. [答案](php/rankB/B020.php)
+4. [B033:テーブルジェネレーター](https://paiza.jp/career/challenges/135/page/result)
+    1. [答案](php/rankB/B033.php)
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
     1. [答案](php/rankB/B053.php)
 6. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
