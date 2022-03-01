@@ -1,7 +1,7 @@
 <?php
     /*　回答方針 
     * (1) 戻るボタン($historyIndex)を定義後、$nを取得して以下の処理をn回実行
-    * (2-1) "go to"の場合、ページ名を表示して配列を保持、$historyIndex++
+    * (2-1) "go to"の場合、ページ名を表示して配列のhistoryIndex番目の値を上書き、$historyIndex++
     * (2-2) "use the back button"の時、以下の条件式を実行
     *  (2-2-1) $historyIndex-1が0の時、配列を初期化,0番目にblank pageを代入
     *  (2-2-2) それ以外の場合は$historyIndex-1の配列の値を画面に表示,$historyIndex--
@@ -27,7 +27,7 @@
     }
     
     function searchPage($page,$historyArr,$historyIndex,$i){
-        // (2-1) "go to"の場合、ページ名を表示して配列を保持、$historyIndex++
+        // (2-1) "go to"の場合、ページ名を表示して配列のhistoryIndex番目の値を上書き、$historyIndex++
         if ($page[0] === "go") {
             $history = implode(" ", array_slice($page,2));
             // 初回はindex番号を0にする
