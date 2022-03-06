@@ -36,7 +36,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](php/rankB/B079.php) 
 14. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
     1. [答案](php/rankB/B092.php)
-15. [B099:台風の接近](B099.php)
+15. B099:台風の接近
     1. [答案](php/rankB/B099.php)
 
 ### JS
