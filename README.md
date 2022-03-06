@@ -8,7 +8,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
 
 ## Bランク
 ### PHP
-1. [B101:【2021年Xmas問題】キャンディのプレゼント]()
+1. B101:【2021年Xmas問題】キャンディのプレゼント
     1. [答案](php/rankB/B101.php)
 2. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
     1. [答案](php/rankB/B017.php)
