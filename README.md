@@ -65,7 +65,7 @@ pziaの回答一覧をを載せています。PHP,JSを中心に回答結果を�
     1. [答案](js/rankC/C067.js) 
 
 ### PHP
-* [C077:【30万人記念問題】レポートの評価](C077.php)
+* [C077:【30万人記念問題】レポートの評価](https://paiza.jp/career/challenges/368/page/result)
     1. [答案](js/rankC/C077.php) 
  
 
