@@ -40,6 +40,8 @@ pziaの回答一覧を載せています。PHP,JSを中心に回答結果を記�
     1. [答案](php/rankB/B099.php)
 15. [B102:膨張と収縮](https://paiza.jp/career/challenges/506/page/result)
     1. [答案](php/rankB/B102.php)
+15. [B106:席替えの席決め 再チャレンジ採点結果](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
+
 
 ### JS
 1. B055:タクシー料金
