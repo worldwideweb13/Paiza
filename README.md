@@ -37,6 +37,8 @@ PHP,JSを中心に回答結果を記載。基本的にテストケースが通�
     1. [答案](php/rankB/B076.php)  
 13. [B079:相性チェック](https://paiza.jp/works/challenges/384/page/result)
     1. [答案](php/rankB/B079.php)
+13. [B082:休暇の取り方](https://paiza.jp/career/challenges/396/page/result)
+    1. [答案](php/rankB/B082.php)
 13. [B085:宝探しの手順](https://paiza.jp/challenges/413/retry_result/ffaf57fb531be757e5ad70e775f20738)
     1. [答案](php/rankB/B085.php)
 14. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
