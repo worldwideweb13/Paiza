@@ -45,6 +45,8 @@ PHP,JSを中心に回答結果を記載。基本的にテストケースが通�
     1. [答案](php/rankB/B092.php)
 14. [B096:爆弾の大爆発](https://paiza.jp/career/challenges/472/page/result)
     1. [答案](php/rankB/B096.php)
+14. [B098:バズの検出](https://paiza.jp/career/challenges/481/page/result)
+    1. [答案](php/rankB/B098.php)
 15. [B099:台風の接近 (不正解)](https://paiza.jp/career/challenges/485/page/result)
     1. [答案](php/rankB/B099.php)
 15. [B102:膨張と収縮](https://paiza.jp/career/challenges/506/page/result)
