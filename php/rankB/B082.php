@@ -21,23 +21,22 @@
     // ↑の操作を$count回繰り返す
     for ($i = 0; $i < $count; $i++) {
         // (2-1) scheduleArrの最初の"work"から"off"にM回連続して入れ変える
-         [$editArr,$index] = editArr($scheduleArr,$M,$w_M,$index);
+        // (2-2) scheduleArrの2番目の"work"から"off"に(以下略) $offDaysを$offDaysArrに追加
+         [$editArr,$index] = editArr($scheduleArr,$M,$index);
          $ans = countArr($editArr);
-        //  var_dump($editArr);
-        //  var_dump($ans);
         $ansArr[] = $ans;
     }
-    
+
+    // (3) $countArrの中で最も大きい数字を出力
     echo max($ansArr).PHP_EOL;
     
-    function editArr($scheduleArr,$M,$w_M,$index){
+    function editArr($scheduleArr,$M,$index){
         // 働く日のkey配列を取得
         $workDays = array_keys($scheduleArr,"work");
         
         // workの数 - M + 1回 配列を置き換える
             for ($i_i = 0; $i_i < $M; $i_i++) {
                 // $workDaysのindexの開始位置を1個ずつずらす
-                // echo "index番号は".$workDays[$i_i + $counter].PHP_EOL;
                 $scheduleArr[$workDays[$i_i + $index]] = "off"; 
             }
             $index++;
