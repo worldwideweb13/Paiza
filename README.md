@@ -23,7 +23,8 @@ PHP,JSを中心に回答結果を記載。基本的にテストケースが通�
     1. [答案](php/rankB/B033.php)
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
     1. [答案](php/rankB/B053.php)
-B060:サイコロころがし
+5. [B060:サイコロころがし](https://paiza.jp/career/challenges/276/page/result)
+    1. [答案](php/rankB/B060.php)
 6. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
     1. [答案](php/rankB/B065.php)
 7. [B087:【2021正月問題】隠された数](https://paiza.jp/works/challenges/425/page/result)
