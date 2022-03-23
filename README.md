@@ -56,8 +56,8 @@ PHP,JSを中心に回答結果を記載。基本的にテストケースが通�
     1. [答案](php/rankB/B104.php)
 15. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
     1. [答案](php/rankB/B106.php)
-15. [B107:カードシャッフル](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
-    1. [答案](php/rankB/B106.php)
+15. [B107:カードシャッフル](https://paiza.jp/career/challenges/525/page/result)
+    1. [答案](php/rankB/B107.php)
 
 
 ### JS
