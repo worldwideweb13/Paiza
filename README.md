@@ -79,9 +79,9 @@
     1. [答案](js/rankC/C013.js)
 1. [C029:旅行の計画](https://paiza.jp/career/challenges/119/page/result)
     1. [答案](js/rankC/C029.js)
-* [C056:テストの採点](https://paiza.jp/career/challenges/266/page/resultC056.js)
+1. [C056:テストの採点](https://paiza.jp/career/challenges/266/page/resultC056.js)
     1. [答案](js/rankC/C056.js) 
-* [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/career/challenges/321/page/result)
+1. [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/career/challenges/321/page/result)
     1. [答案](js/rankC/C067.js) 
 
 ### PHP
