@@ -39,8 +39,6 @@
     1. [答案](php/rankB/B079.php)
 13. [B082:休暇の取り方](https://paiza.jp/career/challenges/396/page/result)
     1. [答案](php/rankB/B082.php)
-13. [B082:休暇の取り方](https://paiza.jp/career/challenges/396/page/result)
-    1. [答案](php/rankB/B082.php)
 13. [B084:オススメのお店](https://paiza.jp/challenges/408/retry_result/c59094d38e8b1023722b903ad00d5433)
     1. [答案](php/rankB/B084.php)
 14. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
