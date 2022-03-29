@@ -9,7 +9,6 @@
     * (3) Ansを画面に出力
     */
     
-    
     // (1) N,M,Kを変数化,s_i行を配列化(playerArr), t_{i, j}を2次元配列化userArrs
     [$N,$M,$K] = array_map('intval', explode(" ", trim(fgets(STDIN))));
     $playerArr = array_map('intval', explode(" ", trim(fgets(STDIN))));

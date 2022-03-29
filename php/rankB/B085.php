@@ -9,7 +9,6 @@
     * (3) ans1,ans2を画面に表示
     */ 
     
-    
     // (1) 方法1...abs(宝の位置) × 2 = 移動回数. 移動回数分,足算を繰り返す...ans1
     $P = (int)trim(fgets(STDIN));
     $moveDistance = $P * 2;
