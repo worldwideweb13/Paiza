@@ -1,11 +1,9 @@
-# Paiza
+# プログラミング課題提出用リポジトリ
 
 ### 概要
-pziaの回答一覧を載せています。PHP,JSを中心に回答結果を記載します。基本的にテストケースが通ったコードを記載しております。
-問題文の掲載が終了しているケースはソースコードのみを記載します。
-
-### 回答方針
-回答方針を最初に立てて、回答内容を記載。
+* PHP,JSを中心に回答結果を記載。基本的にテストケースが通ったコードを記載しております。
+* 解答方針を立てる。方針に沿ってコーディング。テストケース９割以上のケースを記載。
+* 
 
 ### 回答一覧
 
@@ -23,6 +21,8 @@ pziaの回答一覧を載せています。PHP,JSを中心に回答結果を記�
     1. [答案](php/rankB/B033.php)
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
     1. [答案](php/rankB/B053.php)
+5. [B060:サイコロころがし](https://paiza.jp/career/challenges/276/page/result)
+    1. [答案](php/rankB/B060.php)
 6. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
     1. [答案](php/rankB/B065.php)
 7. [B087:【2021正月問題】隠された数](https://paiza.jp/works/challenges/425/page/result)
@@ -36,11 +36,17 @@ pziaの回答一覧を載せています。PHP,JSを中心に回答結果を記�
 12. [B076:パン屋さん](https://paiza.jp/career/challenges/369/page/result)
     1. [答案](php/rankB/B076.php)  
 13. [B079:相性チェック](https://paiza.jp/works/challenges/384/page/result)
-    1. [答案](php/rankB/B079.php) 
+    1. [答案](php/rankB/B079.php)
+13. [B082:休暇の取り方](https://paiza.jp/career/challenges/396/page/result)
+    1. [答案](php/rankB/B082.php)
+13. [B084:オススメのお店](https://paiza.jp/challenges/408/retry_result/c59094d38e8b1023722b903ad00d5433)
+    1. [答案](php/rankB/B084.php)
 14. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
     1. [答案](php/rankB/B092.php)
 14. [B096:爆弾の大爆発](https://paiza.jp/career/challenges/472/page/result)
     1. [答案](php/rankB/B096.php)
+14. [B098:バズの検出](https://paiza.jp/career/challenges/481/page/result)
+    1. [答案](php/rankB/B098.php)
 15. [B099:台風の接近 (不正解)](https://paiza.jp/career/challenges/485/page/result)
     1. [答案](php/rankB/B099.php)
 15. [B102:膨張と収縮](https://paiza.jp/career/challenges/506/page/result)
@@ -51,6 +57,9 @@ pziaの回答一覧を載せています。PHP,JSを中心に回答結果を記�
     1. [答案](php/rankB/B104.php)
 15. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
     1. [答案](php/rankB/B106.php)
+15. [B107:カードシャッフル](https://paiza.jp/career/challenges/525/page/result)
+    1. [答案](php/rankB/B107.php)
+
 
 ### JS
 1. B055:タクシー料金
@@ -70,9 +79,9 @@ pziaの回答一覧を載せています。PHP,JSを中心に回答結果を記�
     1. [答案](js/rankC/C013.js)
 1. [C029:旅行の計画](https://paiza.jp/career/challenges/119/page/result)
     1. [答案](js/rankC/C029.js)
-* [C056:テストの採点](https://paiza.jp/career/challenges/266/page/resultC056.js)
+1. [C056:テストの採点](https://paiza.jp/career/challenges/266/page/resultC056.js)
     1. [答案](js/rankC/C056.js) 
-* [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/career/challenges/321/page/result)
+1. [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/career/challenges/321/page/result)
     1. [答案](js/rankC/C067.js) 
 
 ### PHP
