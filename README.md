@@ -26,6 +26,8 @@
     1. [答案](php/rankB/B065.php)
 7. [B087:【2021正月問題】隠された数](https://paiza.jp/works/challenges/425/page/result)
     1. [答案](php/rankB/B087.php)
+9. [B088:ロボットのデバッグ](https://paiza.jp/challenges/share/yTYI-86OelLnbGdZ-Xpd34DaPjqTQe1QxVu5LqQCfsM?source=social)
+    1. [答案]()
 9. [B095:カラオケ大会](https://paiza.jp/challenges/465/retry_result/09b174ee0adc2f3820bb98a60c12ffaf)
     1. [答案](php/rankB/B095.php)
 10. [B081:花壇のロープ](https://paiza.jp/career/challenges/391/page/result)
