@@ -9,7 +9,7 @@
 
 ## Aランク
 ### PHP
-1. [A052:階段登り]
+1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
     1. [答案](php/rankA/A052.php)
 
 
