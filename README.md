@@ -6,12 +6,13 @@
 
 ### 回答一覧
 
+## 解答攻略
+1. [最大公約数/最小公倍数](php/tips/function.php)
 
 ## Aランク
 ### PHP
 1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
     1. [答案](php/rankA/A052.php)
-
 
 ## Bランク
 ### PHP
