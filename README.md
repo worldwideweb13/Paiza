@@ -7,7 +7,7 @@
 ### 回答一覧
 
 ## 解答攻略
-1. [最大公約数/最小公倍数](php/tips/function.php)
+1. [最大公約数/最小公倍数](php/tips/lcm_gcv.php)
 
 ## Aランク
 ### PHP
