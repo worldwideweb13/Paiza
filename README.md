@@ -9,6 +9,8 @@
 ## 解答攻略
 1. [データ取得関連](php/tips/data_create.php)
 1. [最大公約数/最小公倍数](php/tips/lcm_gcv.php)
+2. [１０進数から５進数に変換](php/tips/lcm_gcv.php)
+3. [最大公約数/最小公倍数](php/tips/lcm_gcv.php)
 
 ## Aランク
 ### PHP
