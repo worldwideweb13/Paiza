@@ -15,7 +15,6 @@
 
 ## 難易度中上級
 1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
-    1. [答案](php/rankA/A052.php)
 1. [A055:脱出ゲーム](https://paiza.jp/challenges/share/9HQzjAYL63Wixax7N6zGxzF7hpNHsj9OU2OWa-DavA8?source=social)
 
 
