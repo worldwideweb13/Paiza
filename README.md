@@ -13,6 +13,10 @@
 2. [１０進数から５進数に変換](php/tips/base10_5)
 3. [幅優先探索(BFS)](php/tips/bfs.php)
 
+### テクニック
+1. [四隅の値を調べる](php/tips/lcm_gcv.php)
+
+
 ## 難易度中上級
 1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
 1. [A055:脱出ゲーム](https://paiza.jp/challenges/share/9HQzjAYL63Wixax7N6zGxzF7hpNHsj9OU2OWa-DavA8?source=social)
