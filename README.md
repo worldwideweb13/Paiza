@@ -14,8 +14,7 @@
 3. [幅優先探索(BFS)](php/tips/bfs.php)
 
 ### テクニック
-1. [四隅の値を調べる](php/tips/lcm_gcv.php)
-
+1. [四隅の値を調べる](php/tips/check4piece.php)
 
 ## 難易度中上級
 1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
