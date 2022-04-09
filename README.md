@@ -78,7 +78,6 @@
 15. [B107:カードシャッフル](https://paiza.jp/career/challenges/525/page/result)
     1. [答案](php/rankB/B107.php)
 
-
 ### JS
 1. B055:タクシー料金
     1. [答案](js/rankB/B055.js)
