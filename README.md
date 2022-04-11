@@ -65,8 +65,6 @@
     1. [答案](php/rankB/B096.php)
 14. [B098:バズの検出](https://paiza.jp/career/challenges/481/page/result)
     1. [答案](php/rankB/B098.php)
-15. [B099:台風の接近 (不正解)](https://paiza.jp/career/challenges/485/page/result)
-    1. [答案](php/rankB/B099.php)
 15. [B102:膨張と収縮](https://paiza.jp/challenges/share/OSgbe6pB1voxzXuzAab8s_MNAljlt12CR7MAnwXQJv8?source=social)
 15. [【銀の弾丸コラボ問題】B103:カブトムシの誘導](https://paiza.jp/challenges/share/yd1THDG6hGmTTgGE154Z1rWQVDb0sM74NZX6not_7gM?source=social)
 15. [B104:データのクレンジング](https://paiza.jp/challenges/513/retry_result/10bab559c2c031aba1eb8ca2990a6d80)
