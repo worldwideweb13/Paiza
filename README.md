@@ -5,8 +5,8 @@
 * 受けた試験の結果のみ (コードは掲載が許されているもの以外は非掲載)　記載。
 
 ### コーディング基礎
-
 1. [データ取得関連](php/tips/data_create.php)
+1. [値の出力関連](php/tips/check4piece.php)
 
 ### アルゴリム
 1. [最大公約数/最小公倍数](php/tips/lcm_gcv.php)
@@ -14,7 +14,7 @@
 3. [幅優先探索(BFS)](php/tips/bfs.php)
 
 ### テクニック
-1. [四隅の値を調べる](php/tips/check4piece.php)
+1. [連想配列の四隅に数字の有無をチェックする](php/tips/check4piece.php)
 
 ## 難易度中上級
 1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
