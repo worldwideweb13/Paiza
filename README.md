@@ -36,7 +36,6 @@
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
     1. [答案](php/rankB/B053.php)
 5. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
-    1. [答案](php/rankB/B054.php)
 5. [B060:サイコロころがし](https://paiza.jp/challenges/share/OtCXZ6n897siv-o4GFYTUAZe3INCZfXT3m3pZFCE6wc?campaign=124&source=social)
 6. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
     1. [答案](php/rankB/B065.php)
