@@ -23,27 +23,17 @@
 
 ## Bランク
 ### PHP
-1. B101:【2021年Xmas問題】キャンディのプレゼント
-    1. [答案](php/rankB/B101.php)
-2. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
-    1. [答案](php/rankB/B017.php)
 4. [B033:テーブルジェネレーター](https://paiza.jp/challenges/share/bJTdFMf1a2ZMav58nr_RZ0PxbEWUQYoVw2ndocXUJ5U?campaign=124&source=social)
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
 5. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
 5. [B060:サイコロころがし](https://paiza.jp/challenges/share/OtCXZ6n897siv-o4GFYTUAZe3INCZfXT3m3pZFCE6wc?campaign=124&source=social)
-6. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
-    1. [答案](php/rankB/B065.php)
 7. [B087:【2021正月問題】隠された数](https://paiza.jp/challenges/share/KVj_WVevdA29MgjrtehsuN-qmnXBleAsjd46Js4a4JQ?campaign=124&source=social)
 9. [B088:ロボットのデバッグ]( https://paiza.jp/challenges/share/yTYI-86OelLnbGdZ-Xpd34DaPjqTQe1QxVu5LqQCfsM?campaign=124&source=social)
-9. [B095:カラオケ大会](https://paiza.jp/challenges/465/retry_result/09b174ee0adc2f3820bb98a60c12ffaf)
-    1. [答案](php/rankB/B095.php)
 10. [B081:花壇のロープ](https://paiza.jp/challenges/share/AB2GGira1jqXiMSXSAHigGCmGaOPzpRnWaJtMobTc_0?campaign=124&source=social)
 11. [B073:【キャンペーン問題】イルミネーションの調査](https://paiza.jp/challenges/share/usgB2lK-xDG9Zyo20SFUiQ73lyY-2YBvwMamJYumOUc?campaign=124&source=social)
 12. [B076:パン屋さん](https://paiza.jp/challenges/share/h_bz0S6HbMCVx1tohQPWZF_j610GiKqFRhoN-2EG_ko?campaign=124&source=social)
 13. [B079:相性チェック](https://paiza.jp/challenges/share/JJ5sqDgid4Eai80oee4bGizArPiTftj-V3l7KzJyxwo?campaign=124&source=social)
 13. [B082:休暇の取り方](https://paiza.jp/challenges/share/8a0hzjYDF3BFceGiQRZGKOnW4IA4DtIgpbYOCgjfJd4?campaign=124&source=social)
-13. [B084:オススメのお店](https://paiza.jp/challenges/408/retry_result/c59094d38e8b1023722b903ad00d5433)
-    1. [答案](php/rankB/B084.php)
 14. [B092:【キャンペーン問題】セーブポイント]( https://paiza.jp/challenges/share/fNkTSIUrSmSjNXbVsaF1_0NzlC0iDtYWjXKr4Uho7aI?campaign=124&source=social)
 14. [B096:爆弾の大爆発](https://paiza.jp/challenges/share/UOcpOsWQf16ahRr1YT0ER_dFlNupUn_mNQgNPSF0Q_4?campaign=124&source=social)
 14. [B098:バズの検出](https://paiza.jp/challenges/share/tBqKjusnYGgBp_Uj9-9KFmSlE6SKsa1YlgrpaqHldq4?source=social)
