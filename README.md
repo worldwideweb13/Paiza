@@ -51,8 +51,7 @@
 
 ## Cランク
 ### JS
-1. [C039:古代の数式](https://paiza.jp/career/challenges/177/page/result)
-    1. [答案](js/rankC/C067.js)
+1. [C039:古代の数式](https://paiza.jp/challenges/share/3oof8qprwzlS3PvGJmu4TTBKGGj3o5q91pbYYCyLmT4?campaign=124&source=social)
 1. [C034:先生の宿題](https://paiza.jp/career/challenges/146/page/result)
     1. [答案](js/rankC/C034.js)    
 1. [C016:Leet文字列](https://paiza.jp/career/challenges/54/page/result)
