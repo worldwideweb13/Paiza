@@ -56,10 +56,7 @@
 1. [C016:Leet文字列](https://paiza.jp/challenges/share/siTrkKM9ZNwgZjuBXHZrc3rB_ek2tbJHDVH3ma9YOaE?campaign=124&source=social)
 1. [C013:嫌いな数字](https://paiza.jp/challenges/share/BJF3DUib0D4Rsl3RMzayZcKoWYBFbdn_eLHobUbC9YY?campaign=124&source=social)
 1. [C029:旅行の計画](https://paiza.jp/challenges/share/8KuuYv8h7ohKCQOJ5Y6Dzwt5a6vGA3gqH8Ue4uKDtIw?campaign=124&source=social)
-1. [C056:テストの採点](https://paiza.jp/career/challenges/266/page/resultC056.js)
-    1. [答案](js/rankC/C056.js) 
-1. [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/career/challenges/321/page/result)
-    1. [答案](js/rankC/C067.js) 
+1. [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/challenges/share/h-TrWmPFu_ZgqOe04ZgsyZqnUmjK6aL2Hrmi4rBRROc?campaign=124&source=social)
 
 ### PHP
 * [C077:【30万人記念問題】レポートの評価](https://paiza.jp/career/challenges/368/page/result)
