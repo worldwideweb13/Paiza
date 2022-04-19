@@ -56,8 +56,7 @@
 1. [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/challenges/share/h-TrWmPFu_ZgqOe04ZgsyZqnUmjK6aL2Hrmi4rBRROc?campaign=124&source=social)
 
 ### PHP
-* [C077:【30万人記念問題】レポートの評価](https://paiza.jp/career/challenges/368/page/result)
-    1. [答案](js/rankC/C077.php) 
+* [C077:【30万人記念問題】レポートの評価](https://paiza.jp/challenges/share/e6xpe_R-NGQNYFFJYULjbGtqlNy8ojw_2q70V6fZsco?campaign=125&source=social)
  
 
 
