@@ -12,6 +12,7 @@
 1. [最大公約数/最小公倍数](php/tips/lcm_gcv.php)
 2. [１０進数から５進数に変換](php/tips/base10_5.php)
 3. [幅優先探索(BFS)](php/tips/bfs.php)
+4. [マンハッタン距離](python/ManhattanDistance.py)
 
 ### テクニック
 1. [連想配列の四隅に数字の有無をチェックする](php/tips/check4piece.php)
