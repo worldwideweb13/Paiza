@@ -1,6 +1,7 @@
 # プログラミング自学習リポジトリ
 
 ### 概要
+
 * プログラミング試験等で問われる基礎的なコーディング、アルゴリズムをPHPで記述してみる。(2022年3月現在)
 * Pythonでのアルゴリズム記述に挑戦中(2022年6月現在)
 * 受けた試験の結果のみ (コードは掲載が許されているもの以外は非掲載)　記載。
@@ -10,21 +11,90 @@
 1. [値の出力関連](php/tips/check4piece.php)
 
 ### アルゴリム
+
 1. [最大公約数/最小公倍数](php/tips/lcm_gcv.php)
-2. [１０進数から５進数に変換](php/tips/base10_5.php)
-3. [幅優先探索(BFS)](php/tips/bfs.php)
-4. [マンハッタン距離](python/ManhattanDistance.py)
+2. [１０進数から５進数に変換(php)](php/tips/base10_5)
+3. [8 進数から 10 進数に変換(python)](python/ManhattanDistance.py)
+4. [幅優先探索(BFS)](php/tips/bfs.php)
 
 ### テクニック
-1. [連想配列の四隅に数字の有無をチェックする](php/tips/check4piece.php)
+
+1. [四隅の値を調べる](php/tips/check4piece.php)
+3. [幅優先探索(BFS)](php/tips/bfs.php)
+4. [マンハッタン距離](python/ManhattanDistance.py)
+5. [連想配列の四隅に数字の有無をチェックする](php/tips/check4piece.php)
+
 
 ## 難易度中上級
+
 1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
 1. [A055:脱出ゲーム](https://paiza.jp/challenges/share/9HQzjAYL63Wixax7N6zGxzF7hpNHsj9OU2OWa-DavA8?source=social)
 
+## B ランク
 
-## Bランク
 ### PHP
+
+2. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
+   1. [答案](php/rankB/B017.php)
+3. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
+   1. [答案](php/rankB/B019.php)
+4. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
+   1. [答案](php/rankB/B020.php)
+5. [B033:テーブルジェネレーター](https://paiza.jp/career/challenges/135/page/result)
+   1. [答案](php/rankB/B033.php)
+6. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
+   1. [答案](php/rankB/B053.php)
+7. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
+   1. [答案](php/rankB/B054.php)
+8. [B060:サイコロころがし](https://paiza.jp/career/challenges/276/page/result)
+   1. [答案](php/rankB/B060.php)
+9. [B065:小さなライフゲーム](https://paiza.jp/works/challenges/304/retry)
+   1. [答案](php/rankB/B065.php)
+10. [B087:【2021 正月問題】隠された数](https://paiza.jp/works/challenges/425/page/result)
+    1. [答案](php/rankB/B087.php)
+11. [B088:ロボットのデバッグ](https://paiza.jp/challenges/share/yTYI-86OelLnbGdZ-Xpd34DaPjqTQe1QxVu5LqQCfsM?source=social)
+    1. [答案](php/rankB/B088.php)
+12. [B095:カラオケ大会](https://paiza.jp/challenges/465/retry_result/09b174ee0adc2f3820bb98a60c12ffaf)
+    1. [答案](php/rankB/B095.php)
+13. [B081:花壇のロープ](https://paiza.jp/career/challenges/391/page/result)
+    1. [答案](php/rankB/B081.php)
+14. [B073:【キャンペーン問題】イルミネーションの調査](https://paiza.jp/career/challenges/350/page/result)
+    1. [答案](php/rankB/B073.php)
+15. [B076:パン屋さん](https://paiza.jp/career/challenges/369/page/result)
+    1. [答案](php/rankB/B076.php)
+16. [B079:相性チェック](https://paiza.jp/works/challenges/384/page/result)
+    1. [答案](php/rankB/B079.php)
+17. [B082:休暇の取り方](https://paiza.jp/career/challenges/396/page/result)
+    1. [答案](php/rankB/B082.php)
+18. [B084:オススメのお店](https://paiza.jp/challenges/408/retry_result/c59094d38e8b1023722b903ad00d5433)
+    1. [答案](php/rankB/B084.php)
+19. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/works/challenges/454/page/result)
+    1. [答案](php/rankB/B092.php)
+20. [B096:爆弾の大爆発](https://paiza.jp/career/challenges/472/page/result)
+    1. [答案](php/rankB/B096.php)
+21. [B098:バズの検出](https://paiza.jp/career/challenges/481/page/result)
+    1. [答案](php/rankB/B098.php)
+22. [B099:台風の接近 (不正解)](https://paiza.jp/career/challenges/485/page/result)
+    1. [答案](php/rankB/B099.php)
+23. [B102:膨張と収縮](https://paiza.jp/career/challenges/506/page/result)
+    1. [答案](php/rankB/B102.php)
+24. [【銀の弾丸コラボ問題】B103:カブトムシの誘導](https://paiza.jp/career/challenges/510/page/result)
+    1. [答案](php/rankB/B103.php)
+25. [B104:データのクレンジング](https://paiza.jp/challenges/513/retry_result/10bab559c2c031aba1eb8ca2990a6d80)
+    1. [答案](php/rankB/B104.php)
+26. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
+    1. [答案](php/rankB/B106.php)
+27. [B107:カードシャッフル](https://paiza.jp/career/challenges/525/page/result)
+    1. [答案](php/rankB/B107.php)
+
+### JS
+
+1. B055:タクシー料金
+   1. [答案](js/rankB/B055.js)
+2. [B040:たのしい暗号解読](https://paiza.jp/career/challenges/179/page/result)
+   1. [答案](js/rankB/B040.js)
+
+## C ランク
 4. [B033:テーブルジェネレーター](https://paiza.jp/challenges/share/bJTdFMf1a2ZMav58nr_RZ0PxbEWUQYoVw2ndocXUJ5U?campaign=124&source=social)
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
 5. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
@@ -47,9 +117,22 @@
 
 ### JS
 3. [B040:たのしい暗号解読](https://paiza.jp/challenges/share/UB548Yh0c2iRV3ocNcRl_GBz5CmwfT7weaZ8-HMCzyk?campaign=125&source=social)
+1. [C039:古代の数式](https://paiza.jp/career/challenges/177/page/result)
+   1. [答案](js/rankC/C067.js)
+1. [C034:先生の宿題](https://paiza.jp/career/challenges/146/page/result)
+   1. [答案](js/rankC/C034.js)
+1. [C016:Leet 文字列](https://paiza.jp/career/challenges/54/page/result)
+   1. [答案](js/rankC/C016.js)
+1. [C013:嫌いな数字](https://paiza.jp/career/challenges/46/page/result)
+   1. [答案](js/rankC/C013.js)
+1. [C029:旅行の計画](https://paiza.jp/career/challenges/119/page/result)
+   1. [答案](js/rankC/C029.js)
+1. [C056:テストの採点](https://paiza.jp/career/challenges/266/page/resultC056.js)
+   1. [答案](js/rankC/C056.js)
+1. [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/career/challenges/321/page/result)
+   1. [答案](js/rankC/C067.js)
 
-## Cランク
-### JS
+### PHP
 1. [C039:古代の数式](https://paiza.jp/challenges/share/3oof8qprwzlS3PvGJmu4TTBKGGj3o5q91pbYYCyLmT4?campaign=124&source=social)
 1. [C034:先生の宿題](https://paiza.jp/challenges/share/tgX9JOc2UAQpQ40d5i909ADfriZf-3rR-mhkw1p9WIk?campaign=124&source=social)
 1. [C016:Leet文字列](https://paiza.jp/challenges/share/siTrkKM9ZNwgZjuBXHZrc3rB_ek2tbJHDVH3ma9YOaE?campaign=124&source=social)
@@ -59,11 +142,7 @@
 
 ### PHP
 * [C077:【30万人記念問題】レポートの評価](https://paiza.jp/challenges/share/e6xpe_R-NGQNYFFJYULjbGtqlNy8ojw_2q70V6fZsco?campaign=125&source=social)
- 
 
 
-
-
-
-
-
+- [C077:【30 万人記念問題】レポートの評価](https://paiza.jp/career/challenges/368/page/result)
+  1. [答案](js/rankC/C077.php)
