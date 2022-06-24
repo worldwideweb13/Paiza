@@ -35,9 +35,7 @@
 ### PHP
 
 2. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
-   1. [答案](php/rankB/B017.php)
 3. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
-   1. [答案](php/rankB/B019.php)
 4. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
    1. [答案](php/rankB/B020.php)
 5. [B033:テーブルジェネレーター](https://paiza.jp/career/challenges/135/page/result)
