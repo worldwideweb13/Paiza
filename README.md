@@ -101,7 +101,3 @@
 
 ### PHP
 * [C077:【30万人記念問題】レポートの評価](https://paiza.jp/challenges/share/e6xpe_R-NGQNYFFJYULjbGtqlNy8ojw_2q70V6fZsco?campaign=125&source=social)
-
-
-- [C077:【30 万人記念問題】レポートの評価](https://paiza.jp/career/challenges/368/page/result)
-  1. [答案](js/rankC/C077.php)
