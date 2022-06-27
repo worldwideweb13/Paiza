@@ -99,5 +99,4 @@
 1. [C029:旅行の計画](https://paiza.jp/challenges/share/8KuuYv8h7ohKCQOJ5Y6Dzwt5a6vGA3gqH8Ue4uKDtIw?campaign=124&source=social)
 1. [C067:【ハッカー入門コラボ問題】数字の調査](https://paiza.jp/challenges/share/h-TrWmPFu_ZgqOe04ZgsyZqnUmjK6aL2Hrmi4rBRROc?campaign=124&source=social)
 
-### PHP
 * [C077:【30万人記念問題】レポートの評価](https://paiza.jp/challenges/share/e6xpe_R-NGQNYFFJYULjbGtqlNy8ojw_2q70V6fZsco?campaign=125&source=social)
