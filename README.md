@@ -34,17 +34,17 @@
 
 ### PHP
 
-2. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
-3. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
-4. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
-5. [B033:テーブルジェネレーター](https://paiza.jp/career/challenges/135/page/result)
-6. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
-7. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
-8. [B088:ロボットのデバッグ](https://paiza.jp/challenges/share/yTYI-86OelLnbGdZ-Xpd34DaPjqTQe1QxVu5LqQCfsM?source=social)
-12. [B095:カラオケ大会](https://paiza.jp/challenges/465/retry_result/09b174ee0adc2f3820bb98a60c12ffaf)
-18. [B084:オススメのお店](https://paiza.jp/challenges/408/retry_result/c59094d38e8b1023722b903ad00d5433)
-25. [B104:データのクレンジング](https://paiza.jp/challenges/513/retry_result/10bab559c2c031aba1eb8ca2990a6d80)
-26. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
+1. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
+1. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
+1. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
+1. [B033:テーブルジェネレーター](https://paiza.jp/career/challenges/135/page/result)
+1. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
+1. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
+1. [B088:ロボットのデバッグ](https://paiza.jp/challenges/share/yTYI-86OelLnbGdZ-Xpd34DaPjqTQe1QxVu5LqQCfsM?source=social)
+1. [B095:カラオケ大会](https://paiza.jp/challenges/465/retry_result/09b174ee0adc2f3820bb98a60c12ffaf)
+1. [B084:オススメのお店](https://paiza.jp/challenges/408/retry_result/c59094d38e8b1023722b903ad00d5433)
+1. [B104:データのクレンジング](https://paiza.jp/challenges/513/retry_result/10bab559c2c031aba1eb8ca2990a6d80)
+1. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
 
 ### JS
 
