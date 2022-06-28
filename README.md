@@ -25,15 +25,14 @@
 5. [連想配列の四隅に数字の有無をチェックする](php/tips/check4piece.php)
 
 
-## 難易度中上級
+### PHP
+
+## Aランク
 
 1. [A052:階段登り](https://paiza.jp/challenges/share/s3pCc1EaB5nWBwmR6frkGHi0KbRVaos0NtuurDydPW4?source=social)
 1. [A055:脱出ゲーム](https://paiza.jp/challenges/share/9HQzjAYL63Wixax7N6zGxzF7hpNHsj9OU2OWa-DavA8?source=social)
 
 ## B ランク
-
-### PHP
-
 1. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
 1. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
 1. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
