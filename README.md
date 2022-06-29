@@ -65,7 +65,7 @@
 12. [B076:パン屋さん](https://paiza.jp/challenges/share/h_bz0S6HbMCVx1tohQPWZF_j610GiKqFRhoN-2EG_ko?campaign=124&source=social)
 13. [B079:相性チェック](https://paiza.jp/challenges/share/JJ5sqDgid4Eai80oee4bGizArPiTftj-V3l7KzJyxwo?campaign=124&source=social)
 13. [B082:休暇の取り方](https://paiza.jp/challenges/share/8a0hzjYDF3BFceGiQRZGKOnW4IA4DtIgpbYOCgjfJd4?campaign=124&source=social)
-14. [B092:【キャンペーン問題】セーブポイント]( https://paiza.jp/challenges/share/fNkTSIUrSmSjNXbVsaF1_0NzlC0iDtYWjXKr4Uho7aI?campaign=124&source=social)
+14. [B092:【キャンペーン問題】セーブポイント](https://paiza.jp/challenges/share/fNkTSIUrSmSjNXbVsaF1_0NzlC0iDtYWjXKr4Uho7aI?campaign=124&source=social)
 14. [B096:爆弾の大爆発](https://paiza.jp/challenges/share/UOcpOsWQf16ahRr1YT0ER_dFlNupUn_mNQgNPSF0Q_4?campaign=124&source=social)
 14. [B098:バズの検出](https://paiza.jp/challenges/share/tBqKjusnYGgBp_Uj9-9KFmSlE6SKsa1YlgrpaqHldq4?source=social)
 15. [B102:膨張と収縮](https://paiza.jp/challenges/share/OSgbe6pB1voxzXuzAab8s_MNAljlt12CR7MAnwXQJv8?source=social)
