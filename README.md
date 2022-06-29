@@ -47,7 +47,6 @@
 
 ### JS
 
-## B ランク
 1. B055:タクシー料金
    1. [答案](js/rankB/B055.js)
 2. [B040:たのしい暗号解読](https://paiza.jp/challenges/share/UB548Yh0c2iRV3ocNcRl_GBz5CmwfT7weaZ8-HMCzyk?campaign=127&source=social)
