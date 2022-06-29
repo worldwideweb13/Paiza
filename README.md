@@ -33,6 +33,8 @@
 1. [A055:脱出ゲーム](https://paiza.jp/challenges/share/9HQzjAYL63Wixax7N6zGxzF7hpNHsj9OU2OWa-DavA8?source=social)
 
 ## B ランク
+
+### PHP
 1. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
 1. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
 1. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
@@ -46,7 +48,6 @@
 1. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
 
 ### JS
-
 1. B055:タクシー料金
    1. [答案](js/rankB/B055.js)
 2. [B040:たのしい暗号解読](https://paiza.jp/challenges/share/UB548Yh0c2iRV3ocNcRl_GBz5CmwfT7weaZ8-HMCzyk?campaign=127&source=social)
