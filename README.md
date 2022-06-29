@@ -46,14 +46,6 @@
 1. [B084:オススメのお店](https://paiza.jp/challenges/408/retry_result/c59094d38e8b1023722b903ad00d5433)
 1. [B104:データのクレンジング](https://paiza.jp/challenges/513/retry_result/10bab559c2c031aba1eb8ca2990a6d80)
 1. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
-
-### JS
-1. B055:タクシー料金
-   1. [答案](js/rankB/B055.js)
-2. [B040:たのしい暗号解読](https://paiza.jp/challenges/share/UB548Yh0c2iRV3ocNcRl_GBz5CmwfT7weaZ8-HMCzyk?campaign=127&source=social)
-   1. [答案](js/rankB/B040.js)
-
-## C ランク
 4. [B033:テーブルジェネレーター](https://paiza.jp/challenges/share/bJTdFMf1a2ZMav58nr_RZ0PxbEWUQYoVw2ndocXUJ5U?campaign=124&source=social)
 5. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
 5. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
@@ -74,6 +66,13 @@
 15. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
 15. [B107:カードシャッフル](https://paiza.jp/challenges/share/wrw2_EkrILP7yGALGjkJ1nrHhKen1QZjUKKIqdm3LcY?source=social)
 
+### JS
+1. B055:タクシー料金
+   1. [答案](js/rankB/B055.js)
+2. [B040:たのしい暗号解読](https://paiza.jp/challenges/share/UB548Yh0c2iRV3ocNcRl_GBz5CmwfT7weaZ8-HMCzyk?campaign=127&source=social)
+   1. [答案](js/rankB/B040.js)
+
+## C ランク
 ### JS
 3. [B040:たのしい暗号解読](https://paiza.jp/challenges/share/UB548Yh0c2iRV3ocNcRl_GBz5CmwfT7weaZ8-HMCzyk?campaign=125&source=social)
 1. [C039:古代の数式](https://paiza.jp/career/challenges/177/page/result)
