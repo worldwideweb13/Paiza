@@ -38,7 +38,6 @@
 1. [B017:手役の強さ](https://paiza.jp/challenges/63/retry_result/ef51b94c9716268d43bb7af5113bb1a8)
 1. [B019:グレースケール画像の縮小](https://paiza.jp/challenges/69/retry_result/38de08fb78cb22f51f6099db43261064)
 1. [B020:ネットサーフィン 再チャレンジ採点結果](https://paiza.jp/challenges/74/retry_result/a7fd6c2c6736a1cf946f866be6135a9f)
-1. [B033:テーブルジェネレーター](https://paiza.jp/career/challenges/135/page/result)
 1. [B053:表の自動生成](https://paiza.jp/challenges/share/9d8J4kw2cTjj0NtUa6OtPydsLOTtF3BIweSwyKmC0a0?source=social)
 1. [B054:不思議な足し算](https://paiza.jp/challenges/share/ck4Prn9OtemdGbjgqUw7ZHe9AFteSorIAGgMKxUPmJs?source=social)
 1. [B088:ロボットのデバッグ](https://paiza.jp/challenges/share/yTYI-86OelLnbGdZ-Xpd34DaPjqTQe1QxVu5LqQCfsM?source=social)
