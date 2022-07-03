@@ -55,9 +55,9 @@
 29. [B096:爆弾の大爆発](https://paiza.jp/challenges/share/UOcpOsWQf16ahRr1YT0ER_dFlNupUn_mNQgNPSF0Q_4?campaign=124&source=social)
 30. [B098:バズの検出](https://paiza.jp/challenges/share/tBqKjusnYGgBp_Uj9-9KFmSlE6SKsa1YlgrpaqHldq4?source=social)
 33. [B102:膨張と収縮](https://paiza.jp/challenges/share/OSgbe6pB1voxzXuzAab8s_MNAljlt12CR7MAnwXQJv8?source=social)
-32. [B104:データのクレンジング](https://paiza.jp/challenges/513/retry_result/10bab559c2c031aba1eb8ca2990a6d80)
-33. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
 34. [【銀の弾丸コラボ問題】B103:カブトムシの誘導](https://paiza.jp/challenges/share/yd1THDG6hGmTTgGE154Z1rWQVDb0sM74NZX6not_7gM?source=social)
+35. [B104:データのクレンジング](https://paiza.jp/challenges/513/retry_result/10bab559c2c031aba1eb8ca2990a6d80)
+36. [B106:席替えの席決め](https://paiza.jp/challenges/523/retry_result/f2ede97f9950cbb7674d7e2ae0c1f63e)
 37. [B107:カードシャッフル](https://paiza.jp/challenges/share/wrw2_EkrILP7yGALGjkJ1nrHhKen1QZjUKKIqdm3LcY?source=social)
 
 ### JS
