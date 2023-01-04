@@ -8,6 +8,8 @@
 
 ---
 
+# カテゴリー
+
 ### コーディング基礎
 1. [データ取得関連](php/tips/data_create.php)
 1. [値の出力関連](php/tips/check4piece.php)
