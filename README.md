@@ -69,6 +69,7 @@
    1. [答案](js/rankB/B040.js)
 
 ## C ランク
+
 ### JS
 3. [B040:たのしい暗号解読](https://paiza.jp/challenges/share/UB548Yh0c2iRV3ocNcRl_GBz5CmwfT7weaZ8-HMCzyk?campaign=125&source=social)
 1. [C039:古代の数式](https://paiza.jp/career/challenges/177/page/result)
